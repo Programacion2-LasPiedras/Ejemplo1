@@ -1,2 +1,4 @@
 # Ejemplo1
-Repositorio plantilla para el Ejemplo1 de Programación2
+
+Agregue las líneas necesarias para que al ejecutar diga:</br>
+**Hola profe, mi nombre es "TU NOMBRE Y APELLIDO!! 
